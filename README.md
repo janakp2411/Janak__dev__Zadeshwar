@@ -1,4 +1,4 @@
 # Janak__dev__Zadeshwar
 
-npm install
-npm start
+#npm install
+#npm start
